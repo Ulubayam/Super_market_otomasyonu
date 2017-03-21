@@ -1,0 +1,57 @@
+C:\Users\Gökhan Birinci\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\NYPFinalProje.exe.config
+C:\Users\Gökhan Birinci\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\NYPFinalProje.exe
+C:\Users\Gökhan Birinci\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\NYPFinalProje.pdb
+C:\Users\Gökhan Birinci\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan Birinci\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.Properties.Resources.resources
+C:\Users\Gökhan Birinci\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.csproj.GenerateResource.Cache
+C:\Users\Gökhan Birinci\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.exe
+C:\Users\Gökhan Birinci\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.pdb
+C:\Users\Gökhan Birinci\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.MainForm.resources
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\NYPFinalProje.exe.config
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.exe
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.pdb
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.csprojResolveAssemblyReference.cache
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.MainForm.resources
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.Properties.Resources.resources
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.csproj.GenerateResource.Cache
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\NYPFinalProje.exe
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\NYPFinalProje.pdb
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\NYPFinalProje\bin\Debug\NYPFinalProje.exe.config
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.exe
+C:\Users\gizem\Desktop\NYPFinalProje\NYPFinalProje\NYPFinalProje\obj\Debug\NYPFinalProje.pdb
